@@ -1,6 +1,6 @@
 #docker build -t ts3server .
 
-#docker run -it -p 30033:30033 -p 9987:9987/udp -p 10011:10011 ts3server±
+#docker run -it -p 30033:30033 -p 9987:9987/udp -p 10011:10011 ts3server
 
 FROM debian
 
